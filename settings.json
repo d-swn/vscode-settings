@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Aura Dark",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit",
+        "source.fixAll.sortJSON": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#1abb22"
+    },
+    "editor.padding.top": 50,
+    "editor.guides.bracketPairs": true,
+    "workbench.colorCustomizations": {
+        "editor.findMatchBackground": "#801b1b",
+        "editor.findMatchHighlightBackground": "#540050",
+        "editor.selectionHighlightBorder": "#d400ffa2",
+        "editorCursor.foreground": "#00ffd0",
+        "editor.wordHighlightBorder": "#ba0606",
+        "editor.wordHighlightStrongBorder": "#ba0606",
+        "editor.selectionBackground": "#5e0352",
+        "list.inactiveSelectionBackground": "#e10bfd41",
+        "selection.background": "#d400ffa2",
+        "diffEditor.insertedLineBackground": "#00bb0018",
+        "diffEditor.removedLineBackground": "#ff000018",
+        "diffEditor.insertedTextBackground": "#00bb0044",
+        "diffEditor.removedTextBackground": "#ff000044"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "json.schemas": [],
+}
