@@ -3,10 +3,9 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit",
         "source.fixAll.sortJSON": "explicit",
-        "source.organizeImports": "explicit"
     },
     "editor.tokenColorCustomizations": {
-        "comments": "#1abb22"
+        "comments": "#219927"
     },
     "editor.padding.top": 50,
     "editor.guides.bracketPairs": true,
@@ -27,6 +26,7 @@
     },
     "workbench.iconTheme": "material-icon-theme",
     "editor.formatOnPaste": true,
+    "editor.mouseWheelZoom": true,
     "editor.formatOnSave": true,
     "json.schemas": [],
 }
