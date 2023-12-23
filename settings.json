@@ -5,7 +5,23 @@
         "source.fixAll.sortJSON": "explicit",
     },
     "editor.tokenColorCustomizations": {
-        "comments": "#219927"
+        "comments": "#219927",
+        "textMateRules": [
+            {
+                "scope": [
+                    "constant.language.boolean"
+                ],
+                "settings": {
+                    "foreground": "#41a2e2"
+                }
+            },
+            {
+                "scope": "constant.language.null",
+                "settings": {
+                    "foreground": "#dd965d"
+                }
+            }
+        ]
     },
     "editor.padding.top": 50,
     "editor.guides.bracketPairs": true,
